@@ -1,0 +1,2 @@
+D:\repos\ProyectoA\BasedeDatos\obj\Debug\BasedeDatos.csproj.AssemblyReference.cache
+D:\repos\ProyectoA\BasedeDatos\obj\Debug\BasedeDatos.csproj.CoreCompileInputs.cache
