@@ -1,0 +1,16 @@
+D:\repos\ProyectoA\Base_Datos\obj\Debug\Base_Datos.csproj.AssemblyReference.cache
+D:\repos\ProyectoA\Base_Datos\obj\Debug\Base_Datos.csproj.SuggestedBindingRedirects.cache
+D:\repos\ProyectoA\Base_Datos\obj\Debug\Base_Datos.csproj.CoreCompileInputs.cache
+D:\repos\ProyectoA\Base_Datos\bin\Debug\Base_Datos.exe.config
+D:\repos\ProyectoA\Base_Datos\bin\Debug\Base_Datos.exe
+D:\repos\ProyectoA\Base_Datos\bin\Debug\Base_Datos.pdb
+D:\repos\ProyectoA\Base_Datos\obj\Debug\Base_Datos.exe
+D:\repos\ProyectoA\Base_Datos\obj\Debug\Base_Datos.pdb
+D:\CC2\DBP\ProyectoA\Base_Datos\bin\Debug\Base_Datos.exe.config
+D:\CC2\DBP\ProyectoA\Base_Datos\bin\Debug\Base_Datos.exe
+D:\CC2\DBP\ProyectoA\Base_Datos\bin\Debug\Base_Datos.pdb
+D:\CC2\DBP\ProyectoA\Base_Datos\obj\Debug\Base_Datos.csproj.AssemblyReference.cache
+D:\CC2\DBP\ProyectoA\Base_Datos\obj\Debug\Base_Datos.csproj.SuggestedBindingRedirects.cache
+D:\CC2\DBP\ProyectoA\Base_Datos\obj\Debug\Base_Datos.csproj.CoreCompileInputs.cache
+D:\CC2\DBP\ProyectoA\Base_Datos\obj\Debug\Base_Datos.exe
+D:\CC2\DBP\ProyectoA\Base_Datos\obj\Debug\Base_Datos.pdb
